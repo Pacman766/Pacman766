@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pacman766
+- 👋 Hi, I’m Viktor
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viktor
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in JavaScript, HTML, CSS, React
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript, HTML, CSS, React
 - 📫 How to reach me 3334976@gmail.com
 
 <!---

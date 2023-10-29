@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Viktor
-- 👀 I’m interested in JavaScript, HTML, CSS, React
-- 🌱 I’m currently learning React Hooks and Redux
-- 💞️ I’m looking to collaborate on JavaScript, HTML, CSS, React
+- 👀 I’m interested in JavaScript, HTML, CSS, React, Java EE
+- 🌱 I’m currently learning React Hooks and Redux, NodeJS, 
+- 💞️ I’m looking to collaborate on JavaScript, HTML, CSS, React, Java
 - 📫 How to reach me 3334976@gmail.com
 
 <!---

@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Viktor
-- 👀 I’m interested in JavaScript, HTML, CSS, React, Java EE
-- 🌱 I’m currently learning React Hooks and Redux, NodeJS, 
-- 💞️ I’m looking to collaborate on JavaScript, HTML, CSS, React, Java
-- 📫 How to reach me 3334976@gmail.com
+# Viktor Kondratsiuk  
 
-<!---
-Pacman766/Pacman766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Web Developer | JavaScript, TypeScript, React, Vue.js, ExtJS, Java**  
+3.5+ years of experience in frontend and full-stack development.  
+Focused on building scalable, secure, and high-performance applications.  
+
+---
+
+## 📬 Contacts  
+- Email: [3334976@gmail.com](mailto:3334976@gmail.com)  
+- LinkedIn: [linkedin.com/in/viktor-kondratsiuk](https://www.linkedin.com/in/viktor-kondratsiuk/)  
+
+---
+
+## 🛠 Skills  
+
+**Languages:** JavaScript (ES6+), TypeScript, Java EE  
+**Frontend:** React, Redux Toolkit, RTK Query, React Query, Vue.js (2/3), ExtJS, Tailwind, Ant Design, Material UI, Styled Components  
+**Backend:** Java EE, Hibernate, REST API  
+**Databases:** MySQL, PostgreSQL, Oracle  
+**Tools:** Git, SVN, Webpack, Vite, ESLint, Prettier  
+**Other:** Figma, Photoshop, TeamCity, YouTrack  

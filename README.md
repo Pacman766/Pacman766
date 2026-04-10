@@ -1,7 +1,7 @@
 # Viktor Kondratsiuk  
 
 **Web Developer | JavaScript, TypeScript, React, Vue.js, ExtJS, Java**  
-3.5+ years of experience in frontend and full-stack development.  
+4 years of experience in frontend and full-stack development.  
 Focused on building scalable, secure, and high-performance applications.  
 
 ---

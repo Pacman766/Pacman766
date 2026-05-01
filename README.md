@@ -7,6 +7,7 @@ Focused on building scalable, secure, and high-performance applications.
 ---
 
 ## 📬 Contacts  
+- CV: [https://pacman766.github.io/](https://pacman766.github.io/)  
 - Email: [3334976@gmail.com](mailto:3334976@gmail.com)  
 - LinkedIn: [linkedin.com/in/viktor-kondratsiuk](https://www.linkedin.com/in/viktor-kondratsiuk/)  
 
